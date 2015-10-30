@@ -9,8 +9,8 @@ public class Log4JTest {
 
 	public static void main(String[] args) {
 		log.info("Hello Log4j2 ");
-		for(int i=0; i<10; i++){
-			log.info("i = " + i);
+		for(int i=0; i<100; i++){
+			log.info("index = " + i);
 		}
 	}
 
