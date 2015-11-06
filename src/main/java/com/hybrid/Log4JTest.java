@@ -13,5 +13,4 @@ public class Log4JTest {
 			log.info("index = " + i);
 		}
 	}
-
 }
